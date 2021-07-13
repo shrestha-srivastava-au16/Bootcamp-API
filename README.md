@@ -40,4 +40,4 @@ node seeder -i
 
 Extensive documentation with examples [here](https://documenter.getpostman.com/view/14313498/TzY4hFmv) -->
 
-- Author: Anshul Anand & Shresth Shrivastava
+- Author: Shresth Shrivastava
